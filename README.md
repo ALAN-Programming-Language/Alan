@@ -16,7 +16,7 @@
 
 ### Download the executable
 
-> _> wget https://github.com/yourusername/alan/releases/download/v1.0.0/alan.xz
+> _> wget https://github.com/ALAN-Programming-Language/Alan/archive/refs/tags/v0.0.1.zip
 
 ### Decompress the file
 
