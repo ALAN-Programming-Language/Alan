@@ -9,6 +9,8 @@
 
 *A modern, English-like programming language designed for readability and expressiveness*
 
+</div>
+
 # 🚀 Quick Start
 
 
