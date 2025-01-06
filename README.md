@@ -32,7 +32,7 @@
 
 When you run ALAN, you'll see this welcome screen:
 
-
+![](https://raw.githubusercontent.com/ALAN-Programming-Language/Alan/refs/heads/Braz-Suthar-logo/output.png)
 
 ### Run an ALAN program
 
